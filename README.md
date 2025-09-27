@@ -1,16 +1,39 @@
-## Hi there 👋
+#About me
 
-<!--
-**neelm26/neelm26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Analyst with strong foundation in data analysis, visualization, and interpretation. Recently completed intensive training in data analytics with hands-on experience in:
 
-Here are some ideas to get you started:
+• Programming: Python (Pandas, NumPy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Database: SQL
+
+• Visualization: Power BI, Excel
+
+• Analytical Methods: Statistical Analysis
+
+ I'm passionate about transforming raw data into meaningful insights and actionable business intelligence. Currently seeking entry-level opportunities in data analysis.
+#Skills
+ 
+• Technical Skills:
+• Python (Pandas, NumPy)
+• SQL
+ •Power BI
+• Microsoft Excel
+• Statistics
+• Data Visualization
+• Data Cleaning & Wrangling
+• Analytical Competencies:
+
+#Trend Analysis
+
+• Dashboard Creation
+• KPI Development
+• Business Intelligence Reporting
+
+#Let's Connect
+I'm actively looking for entry-level Data Analyst roles and welcome any connections or opportunities!
+
+Email: neelm2605@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/neelmarathe/
+
+Location: Vadodara,Gujarat | Open to Remote/Hybrid roles
