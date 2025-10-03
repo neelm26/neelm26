@@ -1,39 +1,31 @@
-#About me
+# 👋 About Me  
 
-I'm an aspiring Data Analyst with strong foundation in data analysis, visualization, and interpretation. Recently completed intensive training in data analytics with hands-on experience in:
+Hi, I’m **Neel Kailas Marathe**, a **Certified Data Analyst** passionate about turning raw data into meaningful insights.  
+I recently completed a **Data Analytics + Python Certification (Platinum Category)** from **Skillovilla**, where I built strong skills in **Data Analysis, Visualization, and Business Intelligence**.  
 
-• Programming: Python (Pandas, NumPy)
+💡 I enjoy working with **data cleaning, dashboard creation, KPI reporting, and trend analysis** to support data-driven decision making.  
+🌱 Currently, I’m seeking **entry-level opportunities** in **Data Analytics** to apply my skills and grow professionally.  
 
-• Database: SQL
+---
 
-• Visualization: Power BI, Excel
+## 🔧 Skills  
 
-• Analytical Methods: Statistical Analysis
+- 📊 **Data Visualization**: Power BI, Excel Dashboards  
+- 🗄️ **Database Management**: SQL (Queries, Joins, Aggregations)  
+- 📑 **Reporting & BI**: KPI Development, Business Intelligence Reporting  
+- 🧹 **Data Handling**: Data Cleaning, Wrangling, Trend Analysis  
+- 📈 **Statistics & Analytics**: Descriptive Analysis, Hypothesis Testing  
+- 🐍 **Basic Programming**: Python (Pandas, NumPy)
+- ## 🚀 Tools & Technologies  
 
- I'm passionate about transforming raw data into meaningful insights and actionable business intelligence. Currently seeking entry-level opportunities in data analysis.
-#Skills
- 
-• Technical Skills:
-• Python (Pandas, NumPy)
-• SQL
- •Power BI
-• Microsoft Excel
-• Statistics
-• Data Visualization
-• Data Cleaning & Wrangling
-• Analytical Competencies:
+---
 
-#Trend Analysis
+## 🌐 Let’s Connect  
 
-• Dashboard Creation
-• KPI Development
-• Business Intelligence Reporting
+📧 **Email**: [neelm2605@gmail.com](mailto:neelm2605@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/neelmarathe](https://www.linkedin.com/in/neelmarathe/)  
+📍 **Location**: Vadodara, Gujarat | Open to Remote/Hybrid Roles  
 
-#Let's Connect
-I'm actively looking for entry-level Data Analyst roles and welcome any connections or opportunities!
+---
 
-Email: neelm2605@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/neelmarathe/
-
-Location: Vadodara,Gujarat | Open to Remote/Hybrid roles
+✨ *Always curious, always learning — excited to contribute to real-world data projects and grow as a Data Analyst!*  
